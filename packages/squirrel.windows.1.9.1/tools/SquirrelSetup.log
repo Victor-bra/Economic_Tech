@@ -1,0 +1,148 @@
+﻿2019-03-01 13:24:57> Program: Starting Squirrel Updater: --releasify Economic_Tech.0.99.1.nupkg
+2019-03-01 13:24:57> Program: Bootstrapper EXE found at:E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2019-03-01 13:24:57> Unhandled exception: System.IO.FileNotFoundException: Файл 'Economic_Tech.0.99.1.nupkg' не найден.
+Имя файла: 'Economic_Tech.0.99.1.nupkg'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+2019-03-01 13:25:22> Program: Starting Squirrel Updater: --releasify Economic_Tech.0.99.1.nupkg
+2019-03-01 13:25:23> Program: Bootstrapper EXE found at:E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2019-03-01 13:25:23> Unhandled exception: System.IO.FileNotFoundException: Файл 'Economic_Tech.0.99.1.nupkg' не найден.
+Имя файла: 'Economic_Tech.0.99.1.nupkg'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+2019-03-01 13:26:39> Program: Starting Squirrel Updater: --releasify MyApp.1.0.0.nupkg
+2019-03-01 13:26:39> Program: Bootstrapper EXE found at:E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2019-03-01 13:26:39> Unhandled exception: System.IO.FileNotFoundException: Файл 'MyApp.1.0.0.nupkg' не найден.
+Имя файла: 'MyApp.1.0.0.nupkg'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+2019-03-01 13:31:37> Program: Starting Squirrel Updater: --releasify MyApp.1.0.0.nupkg
+2019-03-01 13:31:37> Program: Bootstrapper EXE found at:E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2019-03-01 13:31:37> Unhandled exception: System.IO.FileNotFoundException: Файл 'MyApp.1.0.0.nupkg' не найден.
+Имя файла: 'MyApp.1.0.0.nupkg'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+2019-03-01 13:32:21> Program: Starting Squirrel Updater: --releasify MyApp.1.0.0.nupkg
+2019-03-01 13:32:21> Program: Bootstrapper EXE found at:E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2019-03-01 13:32:21> Unhandled exception: System.IO.FileNotFoundException: Файл 'MyApp.1.0.0.nupkg' не найден.
+Имя файла: 'MyApp.1.0.0.nupkg'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+2019-03-01 13:33:06> Program: Starting Squirrel Updater: --releasify MyApp.1.0.0.nupkg
+2019-03-01 13:33:06> Program: Bootstrapper EXE found at:E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2019-03-01 13:33:06> Unhandled exception: System.IO.FileNotFoundException: Файл 'MyApp.1.0.0.nupkg' не найден.
+Имя файла: 'MyApp.1.0.0.nupkg'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+2019-03-01 13:33:30> Program: Starting Squirrel Updater: --Release MyApp.1.0.0.nupkg
+2019-03-01 13:35:46> Program: Starting Squirrel Updater: --releasify MyApp.1.0.0.nupkg
+2019-03-01 13:35:46> Program: Bootstrapper EXE found at:E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2019-03-01 13:35:46> Program: Creating release package: E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Releases\Releases\MyApp.1.0.0.nupkg
+2019-03-01 13:35:46> ReleasePackage: Creating release package: E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Releases\Releases\MyApp.1.0.0.nupkg => E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Releases\Releases\MyApp-1.0.0-full.nupkg
+2019-03-01 13:35:48> ReleasePackage: Extracting dependent packages: []
+2019-03-01 13:35:48> ReleasePackage: Removing unnecessary data
+2019-03-01 13:35:48> ReleasePackage: No release notes found in C:\Users\super\AppData\Local\SquirrelTemp\tempa\MyApp.nuspec
+2019-03-01 13:35:52> Program: Building embedded zip file for Setup.exe
+2019-03-01 13:35:56> Unhandled exception: System.AggregateException: Произошла одна или несколько ошибок. ---> System.Exception: Failed to modify resources, command invoked was: 'E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\rcedit.exe "E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Releases\Releases\Setup.exe" --set-version-string "CompanyName" "super" --set-version-string "LegalCopyright" "Copyright © 2019 super" --set-version-string "FileDescription" "My package description." --set-version-string "ProductName" "My package description." --set-file-version 1.0.0 --set-product-version 1.0.0'
+
+Output was:
+Fatal error: Unable to load file
+   в Squirrel.Update.Program.<setPEVersionInfoAndIcon>d__20.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   в System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   в Squirrel.Update.Program.<>c__DisplayClass10_0.<Releasify>b__6()
+   в Squirrel.Utility.<>c__DisplayClass8_0.<Retry>b__0()
+   в Squirrel.Utility.Retry[T](Func`1 block, Int32 retries)
+   в Squirrel.Utility.Retry(Action block, Int32 retries)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+---> (Внутреннее исключение #0) System.Exception: Failed to modify resources, command invoked was: 'E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\rcedit.exe "E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Releases\Releases\Setup.exe" --set-version-string "CompanyName" "super" --set-version-string "LegalCopyright" "Copyright © 2019 super" --set-version-string "FileDescription" "My package description." --set-version-string "ProductName" "My package description." --set-file-version 1.0.0 --set-product-version 1.0.0'
+
+Output was:
+Fatal error: Unable to load file
+   в Squirrel.Update.Program.<setPEVersionInfoAndIcon>d__20.MoveNext()<---
+
+2019-03-01 13:40:17> Program: Starting Squirrel Updater: --releasify MyApp.1.0.0.nupkg
+2019-03-01 13:40:17> Program: Bootstrapper EXE found at:E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2019-03-01 13:40:17> Program: Creating release package: E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Economic_Tech\bin\Release\Releases\MyApp.1.0.0.nupkg
+2019-03-01 13:40:17> ReleasePackage: Creating release package: E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Economic_Tech\bin\Release\Releases\MyApp.1.0.0.nupkg => E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Economic_Tech\bin\Release\Releases\MyApp-1.0.0-full.nupkg
+2019-03-01 13:40:18> ReleasePackage: Extracting dependent packages: []
+2019-03-01 13:40:18> ReleasePackage: Removing unnecessary data
+2019-03-01 13:40:18> ReleasePackage: No release notes found in C:\Users\super\AppData\Local\SquirrelTemp\tempa\MyApp.nuspec
+2019-03-01 13:40:21> Program: Building embedded zip file for Setup.exe
+2019-03-01 13:40:24> Unhandled exception: System.AggregateException: Произошла одна или несколько ошибок. ---> System.Exception: Failed to modify resources, command invoked was: 'E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\rcedit.exe "E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Economic_Tech\bin\Release\Releases\Setup.exe" --set-version-string "CompanyName" "super" --set-version-string "LegalCopyright" "Copyright © 2019 super" --set-version-string "FileDescription" "My package description." --set-version-string "ProductName" "My package description." --set-file-version 1.0.0 --set-product-version 1.0.0'
+
+Output was:
+Fatal error: Unable to load file
+   в Squirrel.Update.Program.<setPEVersionInfoAndIcon>d__20.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   в System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   в Squirrel.Update.Program.<>c__DisplayClass10_0.<Releasify>b__6()
+   в Squirrel.Utility.<>c__DisplayClass8_0.<Retry>b__0()
+   в Squirrel.Utility.Retry[T](Func`1 block, Int32 retries)
+   в Squirrel.Utility.Retry(Action block, Int32 retries)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+---> (Внутреннее исключение #0) System.Exception: Failed to modify resources, command invoked was: 'E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\rcedit.exe "E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Economic_Tech\bin\Release\Releases\Setup.exe" --set-version-string "CompanyName" "super" --set-version-string "LegalCopyright" "Copyright © 2019 super" --set-version-string "FileDescription" "My package description." --set-version-string "ProductName" "My package description." --set-file-version 1.0.0 --set-product-version 1.0.0'
+
+Output was:
+Fatal error: Unable to load file
+   в Squirrel.Update.Program.<setPEVersionInfoAndIcon>d__20.MoveNext()<---
+
+2019-03-01 13:45:47> Program: Starting Squirrel Updater: --releasify MyPackage.1.0.0.nupkg
+2019-03-01 13:45:47> Program: Bootstrapper EXE found at:E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2019-03-01 13:45:47> Program: Creating release package: E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Economic_Tech\bin\Release\Releases\MyPackage.1.0.0.nupkg
+2019-03-01 13:45:47> ReleasePackage: Creating release package: E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Economic_Tech\bin\Release\Releases\MyPackage.1.0.0.nupkg => E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Economic_Tech\bin\Release\Releases\MyPackage-1.0.0-full.nupkg
+2019-03-01 13:45:49> ReleasePackage: Extracting dependent packages: []
+2019-03-01 13:45:49> ReleasePackage: Removing unnecessary data
+2019-03-01 13:45:49> ReleasePackage: No release notes found in C:\Users\super\AppData\Local\SquirrelTemp\tempa\MyPackage.nuspec
+2019-03-01 13:45:52> Program: Building embedded zip file for Setup.exe
+2019-03-01 13:45:55> Unhandled exception: System.AggregateException: Произошла одна или несколько ошибок. ---> System.Exception: Failed to modify resources, command invoked was: 'E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\rcedit.exe "E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Economic_Tech\bin\Release\Releases\Setup.exe" --set-version-string "CompanyName" "super" --set-version-string "LegalCopyright" "Copyright © 2019 super" --set-version-string "FileDescription" "My package description." --set-version-string "ProductName" "My package description." --set-file-version 1.0.0 --set-product-version 1.0.0'
+
+Output was:
+Fatal error: Unable to load file
+   в Squirrel.Update.Program.<setPEVersionInfoAndIcon>d__20.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   в System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   в Squirrel.Update.Program.<>c__DisplayClass10_0.<Releasify>b__6()
+   в Squirrel.Utility.<>c__DisplayClass8_0.<Retry>b__0()
+   в Squirrel.Utility.Retry[T](Func`1 block, Int32 retries)
+   в Squirrel.Utility.Retry(Action block, Int32 retries)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+---> (Внутреннее исключение #0) System.Exception: Failed to modify resources, command invoked was: 'E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\packages\squirrel.windows.1.9.1\tools\rcedit.exe "E:\Все по учебе\Вторая вышка\Курсач\CourseProgram\Economic_Tech\Economic_Tech\bin\Release\Releases\Setup.exe" --set-version-string "CompanyName" "super" --set-version-string "LegalCopyright" "Copyright © 2019 super" --set-version-string "FileDescription" "My package description." --set-version-string "ProductName" "My package description." --set-file-version 1.0.0 --set-product-version 1.0.0'
+
+Output was:
+Fatal error: Unable to load file
+   в Squirrel.Update.Program.<setPEVersionInfoAndIcon>d__20.MoveNext()<---
+
